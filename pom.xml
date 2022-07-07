@@ -11,6 +11,7 @@
     <groupId>com.thecitizenprj</groupId>
     <artifactId>github-cicd-actions</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <name>theCitizenPrj_backend</name>
     <description>theCitizenPrj_backend</description>
     <properties>
